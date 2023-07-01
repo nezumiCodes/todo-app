@@ -1,0 +1,6 @@
+# Depedencies
+/node_modules
+package-lock.json
+
+# Environment secrets file
+/config/secret.env
